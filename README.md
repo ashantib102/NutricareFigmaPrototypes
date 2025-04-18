@@ -1,7 +1,9 @@
 # Nutri-care Figma Prototypes
 This is an assignment for my Human Computer Interaction class where I created three interactive prototypes of an app designed for cancer survivors (a term that refers to
 cancer patients at any point post-diagnosis; they may be in active treatment or in remission). The second prototype was a revision of the first one based on a persona of a cancer survivor, while the last one is the finalized version implementing all the knowledge we gained about the struggles cancer survivors face using technology.
+
 Final Version: https://www.figma.com/proto/ZHSuhQQtEPHxw9QDkVceqV/Nutri-Care-Prototype-3?node-id=1-5228&p=f&t=WhcjD4Fp3MJbkL2a-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=4002%3A206
+
 Dev Mode: https://www.figma.com/design/ZHSuhQQtEPHxw9QDkVceqV/Nutri-Care-Prototype-3?node-id=0-1&m=dev&t=vU1Pt9cnb3r1bDxa-1
 
 Prototype 1:https://www.figma.com/proto/r1qzGZaVdb7VTjhGfgwicM/Nutri-Care?node-id=0-1&t=9m1YTAwav7OZOIwN-1
@@ -9,7 +11,7 @@ Dev Mode: https://www.figma.com/design/r1qzGZaVdb7VTjhGfgwicM/Nutri-Care-Prototy
 My app, Nutri-Care, is designed to support cancer patients by providing healthy recipes tailored to their specific dietary needs. Users can filter recipes based on the symptoms they are experiencing (e.g., fatigue, diarrhea), dietary restrictions (e.g., bland diet, low-calorie diet, neutropenic diet), and meal type (e.g., breakfast, lunch, dinner). The main thing I considered in the design was simplicity and ease of use to accommodate users who may be experiencing fatigue or cognitive overload, as these are some of the most common symptoms cancer patients experience. To achieve this, I went for a minimalist black-and-white color scheme to ensure a calming effect. 
 Navigation was another key consideration. The home, search, favorites, and history buttons are consistently placed at the bottom of the screen on each page, aligning with users’ mental models and making it easy to switch between sections. Additionally, clear labels and explanations for each function ensure that users can interact with the app without confusion. Recognizing that each patient has unique nutritional needs, I included a settings page where users can specify their dietary goals, preferred diet type, and food restrictions. This personalization ensures that the most relevant recipes appear first in search results, reducing the effort required to find suitable meals. 
 
-Prototype 2: Link:https://www.figma.com/proto/qEX9J1M56gl5cyvOiL0maJ/Nutri-Care-Prototype-2?node-id=1-5228&p=f&t=NdMbQQkHH9HtVkAU-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1
+Prototype 2: https://www.figma.com/proto/qEX9J1M56gl5cyvOiL0maJ/Nutri-Care-Prototype-2?node-id=1-5228&p=f&t=NdMbQQkHH9HtVkAU-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1
 Dev Mode: https://www.figma.com/design/qEX9J1M56gl5cyvOiL0maJ/Nutri-Care-Prototype-2?node-id=0-1&m=dev&t=rjJkQogbab9R7J6x-1
 I chose the persona of Mei Lin because my app would be especially helpful to her since she enjoys cooking. Mei experiences cognitive impairments like "chemo brain," mental fatigue, and difficulty concentrating, as well as blurry vision and ongoing fatigue. 
 To make the app more accessible and user-friendly for her, I made several key design changes. First, I increased the default text size throughout the app and added a setting that allows users to further adjust the font size to their comfort. I also replaced the decorative font used in the app’s name with a more legible and accessible typeface—Roboto—and made much of the text bold to improve readability.
