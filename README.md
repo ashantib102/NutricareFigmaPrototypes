@@ -1,6 +1,8 @@
 # Nutri-care Figma Prototypes
 This is an assignment for my Human Computer Interaction class where I created three interactive prototypes of an app designed for cancer survivors (a term that refers to
 cancer patients at any point post-diagnosis; they may be in active treatment or in remission). The second prototype was a revision of the first one based on a persona of a cancer survivor, while the last one is the finalized version implementing all the knowledge we gained about the struggles cancer survivors face using technology.
+Final Version: https://www.figma.com/proto/ZHSuhQQtEPHxw9QDkVceqV/Nutri-Care-Prototype-3?node-id=1-5228&p=f&t=WhcjD4Fp3MJbkL2a-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=4002%3A206
+Dev Mode: https://www.figma.com/design/ZHSuhQQtEPHxw9QDkVceqV/Nutri-Care-Prototype-3?node-id=0-1&m=dev&t=vU1Pt9cnb3r1bDxa-1
 
 Prototype 1:https://www.figma.com/proto/r1qzGZaVdb7VTjhGfgwicM/Nutri-Care?node-id=0-1&t=9m1YTAwav7OZOIwN-1
 Dev Mode: https://www.figma.com/design/r1qzGZaVdb7VTjhGfgwicM/Nutri-Care-Prototype-1?m=dev&t=KM0Aa3EQWRAFPlKR-1
